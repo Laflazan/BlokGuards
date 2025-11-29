@@ -105,6 +105,43 @@ A safer way to let someone pay on your behalf — without sharing your wallet.
 
 ## 🧪 Installation
 
+## 👥 BLOCKGUARDS TEAM
+
+### 🧩 Founder & Lead Developer
+**Said Faik Sezgin (MsF)**  
+Architects the full product vision, leads development, coordinates technical execution, and manages the overall direction of the project.
+
+---
+
+### 🔐 Blockchain & Smart Contracts Engineer
+**Abdullah Esad Demirci**, **Said Faik Sezgin**  
+Responsible for Stellar integration, Soroban smart contract logic, on-chain security rules, and temporary wallet cryptography.
+
+---
+
+### 🖥️ Backend & API Developer
+**Abdullah Esad Demirci**  
+Develops Node.js backend services, QR token infrastructure, transaction verification endpoints, and merchant API layers.
+
+---
+
+### 🎨 UI/UX Designer & Product Experience
+**Said Faik Sezgin**  
+Designs app interfaces, user flow architecture, visual identity, fintech UX consistency, and overall mobile product experience.
+
+---
+
+### 📊 Research, Strategy & Market Analysis
+**Hüseyin Işık Ağçuka**  
+Handles competitor research, fintech ecosystem analysis, regulatory compatibility checks, market strategy, and pitch insights.
+
+---
+
+### 🎥 Media, Presentation & Visual Assets
+**Said Faik Sezgin**  
+Creates pitch decks, demo videos, UI mockups, promotional visuals, animations, and presentation materials for events & juries.
+
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/blockguards.git
 cd blockguards
