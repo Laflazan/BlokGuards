@@ -69,8 +69,8 @@ A safer way to let someone pay on your behalf — without sharing your wallet.
 - Provider / Riverpod  
 
 ### Backend
-- Node.js  
-- Express.js  
+ 
+- Java
 - Firebase / Supabase (optional)
 
 ### Blockchain
